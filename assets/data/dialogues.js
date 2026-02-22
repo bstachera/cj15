@@ -18,7 +18,7 @@ const CHARACTER_MANIFEST = {
     portrait: "blueeye" 
   },
   cactus: { 
-    name: "Cactus", 
+    name: "STAŚ", 
     npc: "cactus", 
     voice: "talkLow", 
     portrait: "cactus" 
